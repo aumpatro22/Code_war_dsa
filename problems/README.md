@@ -2,6 +2,8 @@
 
 Use this folder to keep your solutions grouped by topic. Each topic folder has a short guide so the repo stays easy to browse on GitHub.
 
+Keep this library focused on DSA-style problems. Use [python-oop-basics](../python-oop-basics/README.md) for fundamentals and OOP exercises.
+
 ## How to organize solutions
 
 - Put one problem file per solution.

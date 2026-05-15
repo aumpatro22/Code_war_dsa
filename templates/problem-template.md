@@ -7,6 +7,7 @@
 - Difficulty:
 - Topic:
 - Date:
+- Reference files:
 
 ## Key idea
 
